@@ -1,0 +1,42 @@
+
+
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Avdhoot",
+      "email": "avdhoot.980@gmail.com",
+      "age": 21
+    },
+    {
+      "id": "2",
+      "name": "Samba",
+      "email": "samba@gmail.com",
+      "age": 45
+    },
+    {
+      "id": "3",
+      "name": "gabbar",
+      "email": "gabbar@gmail.com",
+      "age": 60
+    },
+    {
+      "id": "5",
+      "name": "jay",
+      "email": "jay@gmail.com",
+      "age": 15
+    },
+    {
+      "id": "6",
+      "name": "viru",
+      "email": "viru@gmail.com",
+      "age": 15
+    },
+    {
+      "name": "Thakur",
+      "email": "thakur@gmail.com",
+      "age": 78,
+      "id": "2jqn0WZ"
+    }
+  ]
+}
